@@ -51,6 +51,7 @@ Prerequisites:
    ```sh
    python3 quiz.py
    ```
+   Optionally you can add the flag `-d` for difficulty and enter "easy", "medium" or "hard" (default=easy); or the flag `-a` for number of questions (up to 10, default=1).
 
 
 [Python.com]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
